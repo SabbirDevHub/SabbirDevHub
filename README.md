@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Sabbir Ahmed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Innovator;Blockchain+Enthusiast;Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=B.Sc.+CSE+Student+at+UIU;UI%2FUX+Designer+(Figma);Programmer;Lifelong+Learner+%26+Teacher;Future+Global+Tech+Leader;Proud+to+Represent+Bangladesh&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">Hi there! 👋 I'm Sabbir Ahmed, a passionate Computer Science & Engineering student at United International University. I love building innovative tech solutions, from mobile apps to smart automation projects. My interests span programming, UI/UX design, AI/ML, and web development. I believe in continuous learning and sharing knowledge with the community. Currently, I’m diving deeper into Data Structures, Full Stack Development, and creative coding. When I’m not coding, you’ll find me designing, leading campus initiatives, or playing cricket. Let’s connect, collaborate, and create impactful tech together! 🚀✨</h4>
